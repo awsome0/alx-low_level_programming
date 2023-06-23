@@ -9,7 +9,7 @@
  * Return: return results
  */
 
-int mul(int a. int b)
+int mul(int a, int b)
 
 {
 	return (a * b);
