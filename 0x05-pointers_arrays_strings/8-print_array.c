@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_array - prints n elements
+ * print_array - prints n elements of an array of integers.
  *
- * @n; elements parameter input
- * @s: string parameter input
+ * @n: elements parameter input
+ * @a: string parameter input
  *
  * Return: Nothing
  */
